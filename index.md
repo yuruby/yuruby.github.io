@@ -7,14 +7,11 @@ tagline:
 
 ## ゆるびぃ会とは
 
-
-#### Github
-
-<a href="{{ site.github_url }}">{{ site.author.github }}</a>
+作成途中...
 
 
-<!-- <ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul> -->
+
+
+<a href="{{ site.github_url }}" target="_blank"><img src="img/github_icon.png">{{ site.author.github }}</a>
+
+<a href="{{ site.facebook_url }}" target="_blank"><img src="img/facebook_icon.png">{{ site.author.facebook }}</a>
