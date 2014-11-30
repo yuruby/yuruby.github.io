@@ -77,3 +77,29 @@ h1, h2, h3, h4 {
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+.social_box {
+    display: inline-block;
+    height: 30px;
+    overflow: hidden;
+    text-align: left;
+    vertical-align: bottom;
+}
+
+.social_box .hatena {
+    float: left;
+    overflow: hidden;
+}
+
+.social_box .twitter {
+    float: left;
+    overflow:hidden;
+    margin-left: 20px;
+}
+
+.social_box .facebook {
+    float: left;
+    height: 25px;
+    line-height: 20px;
+    overflow: hidden;
+}
