@@ -1,9 +1,12 @@
 ---
 layout: page
 title: ゆるびぃ会
-tagline: 
+tagline:
 ---
 {% include JB/setup %}
+
+
+<a href="{{ site.slackin_url }}"  target="_blank"><img src="img/slack.png"> Slack 使ってます。Slackinを用意してますので、こちらから参加できます。</a>
 
 {% for post in site.posts limit:5 %}
   <div class="new_post">
